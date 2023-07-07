@@ -9,7 +9,7 @@ Follow the following steps:
 
 ### Open API, Swagger Documentstion
 Below is the link to the API documentation
-* http://localhost:8080/swagger-ui/index.html
+* http://localhost:8082/api/swagger-ui/index.html
 You may copy the below  endpoints, they should work fine.
 
 ### The application starts on port 8080
